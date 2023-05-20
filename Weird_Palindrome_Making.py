@@ -6,4 +6,5 @@ for i in range(n):
     for i in l:
         if i%2!=0:
             c+=1
-    print(int(c/2))    
+    print(int(c/2))        
+    
